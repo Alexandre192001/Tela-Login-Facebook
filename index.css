@@ -179,6 +179,23 @@ footer .elementos-face {
 .elementos-face>a:hover {
   text-decoration: underline;
 }
+.btn_voltar_port{
+  display: block;
+  border: none;
+  background-color: rgb(37, 39, 53);
+  width:5rem ;
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding: .4rem .4rem;
+  border-radius: .4rem;
+  color: #fff;
+  transition: all .4s;
+  margin: 1rem ;
+  text-decoration: none;
+}
+.btn_voltar_port:hover{
+  transform: scale(1.1);
+}
 
 /*Responsividade do site - 800px*/
 
