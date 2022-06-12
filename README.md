@@ -13,7 +13,7 @@
 
 <hr>
 <h2>⚜️Descriçao⚜️</h2>
-<p>Clone da página de login do facebook sem funcionalidades.</p>
+<p>Clone da página de login do facebook.</p>
 
 <hr>
 Link: https://clone-login-facebook.netlify.app/
