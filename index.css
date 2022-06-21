@@ -147,10 +147,12 @@ input {
   text-decoration: underline;
 }
 
+/* Adicionando animação de focus no place */
 ::placeholder:focus {
   color: #fff;
 }
 
+/* Estilizando cards internos do footer */
 footer .linguas-face,
 footer .elementos-face {
   display: flex;
@@ -161,24 +163,26 @@ footer .elementos-face {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Estilizando links do footer */
 .linguas-face>a {
   margin: .4rem;
   color: rgb(118, 118, 118);
 }
-
+/* Botão de linguagens */
 .linguas-face>button {
   padding: .1rem .3rem;
 }
-
+/* Eslizando segundo card do footer*/
 .elementos-face>a {
   margin: .4rem;
   color: rgb(118, 118, 118);
 }
-
+/* Adicionando animação de hover nos elementos do footer */
 .linguas-face>a:hover,
 .elementos-face>a:hover {
   text-decoration: underline;
 }
+/* Botão de voltar para o port */
 .btn_voltar_port{
   display: block;
   border: none;
@@ -193,6 +197,7 @@ footer .elementos-face {
   margin: 1rem ;
   text-decoration: none;
 }
+/* Coloando animação de hover no btn voltar */
 .btn_voltar_port:hover{
   transform: scale(1.1);
 }
